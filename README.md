@@ -1,4 +1,7 @@
 # Week-9
+## Honeypot Attack 1 ![Attack](https://github.com/kevinsinclair83/Week-9/blob/master/Week9HoneypotAttack.gif)
+## Honeypot Attack 2 ![Attack](https://github.com/kevinsinclair83/Week-9/blob/master/Week9HoneypotAttack2.gif)
+
 
 3 Honeypots deployed: 
 honeypot1-dionaea 35.202.179.68
